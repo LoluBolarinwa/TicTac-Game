@@ -5,7 +5,7 @@
 }
 
 .background {
-    background-color: #00b45a;
+    background-color: #01fb7e;
     height: 100vh;
     padding-bottom: 1px;
 }
@@ -40,8 +40,8 @@
 
 .tile {
     border: 1px solid white;
-    min-width: 100px;
-    min-height: 100px;
+    min-width: 101px;
+    min-height: 101px;
     display: flex;
     justify-content: center;
     align-items: center;
