@@ -1,2 +1,2 @@
 This is an intermediate level JavaScript Project.
-This TicTacToe game was build gradually from the ground up using a documentation from several sources.
+This TicTacToe game was built systematically from the ground up using documentation from several sources.
