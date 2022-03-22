@@ -121,3 +121,15 @@ window.addEventListener('DOMContentLoaded', () => {
 
     resetButton.addEventListener('click', resetBoard);
 });
+
+
+
+//     app.post("/", (req, res) => {
+//         var weight = Number(req.body.weight);
+//         var height = Number(req.body.height);
+    
+//         var result = (weight / Math.pow(height, 2)) ;
+    
+//         if (result < 18.5) {
+//             res.send("Your BMI is " + result + ". You are underweight")
+//         }
