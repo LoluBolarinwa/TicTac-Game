@@ -133,3 +133,20 @@ window.addEventListener('DOMContentLoaded', () => {
 //         if (result < 18.5) {
 //             res.send("Your BMI is " + result + ". You are underweight")
 //         }
+
+
+//   table.cinereousTable tfoot td {
+//     font-size: 16px;
+//   }
+
+// td {
+//     width: 25%;
+// }
+
+
+//  tr {
+//     width: 10%;
+//     height: 20px;
+//      font-size: 25rem; 
+//      font-weight: bold; 
+// }
