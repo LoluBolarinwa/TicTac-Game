@@ -86,12 +86,7 @@
 
 ///
 /* table.cinereousTable {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border: 6px solid #948473;
-    background-color: #FFE3C6;
-    width: 30%;
-    height: 500px;
-    text-align: center;
+ center;
     cursor: pointer;
   }
   table.cinereousTable td, table.cinereousTable th {
@@ -102,8 +97,7 @@
     font-size: 27px;
   }
   table.cinereousTable thead {
-    background: #948473;
-    background: -moz-linear-gradient(top, #afa396 0%, #9e9081 66%, #948473 100%);
+    backund: -moz-linear-gradient(top, #afa396 0%, #9e9081 66%, #948473 100%);
     background: -webkit-linear-gradient(top, #afa396 0%, #9e9081 66%, #948473 100%);
     background: linear-gradient(to bottom, #afa396 0%, #9e9081 66%, #948473 100%);
   }
