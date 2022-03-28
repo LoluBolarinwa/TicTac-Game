@@ -142,11 +142,4 @@ window.addEventListener('DOMContentLoaded', () => {
 // td {
 //     width: 25%;
 // }
-
-
-//  tr {
-//     width: 10%;
-//     height: 20px;
-//      font-size: 25rem; 
-//      font-weight: bold; 
-// }
+// dispute reslutin througfh use of css property by making identifier responsive
