@@ -131,8 +131,7 @@ window.addEventListener('DOMContentLoaded', () => {
 //         var result = (weight / Math.pow(height, 2)) ;
     
 //         if (result < 18.5) {
-//             res.send("Your BMI is " + result + ". You are underweight")
-//         }
+//             res.send("Your BMI is " + result + ". 
 
 
 //   table.cinereousTable tfoot td {
