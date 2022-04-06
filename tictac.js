@@ -132,11 +132,11 @@ window.addEventListener('DOMContentLoaded', () => {
 //             res.send("Your BMI is " + result + ". 
 
 
-//   table.cinereousTable tfoot td {
+  table.cinereousTable tfoot td {
 
-//   }
+  }
 
-// td {
+td {
 //     width: 25%;
 // }
 // data reslutoin througfh use of css property by making identifier responsive
