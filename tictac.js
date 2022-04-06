@@ -133,10 +133,10 @@ window.addEventListener('DOMContentLoaded', () => {
 
 
 //   table.cinereousTable tfoot td {
-//     font-size: 16px;
+
 //   }
 
 // td {
 //     width: 25%;
 // }
-// dispute reslutin througfh use of css property by making identifier responsive
+// data reslutoin througfh use of css property by making identifier responsive
