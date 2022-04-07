@@ -90,7 +90,6 @@
     font-size: 27px;
   }
   table.cinereousTable thead {
-    backund: -moz-linear-gradient(top, #afa396 0%, #9e9081 66%, #948473 100%);
     background: -webkit-linear-gradient(top, #afa396 0%, #9e9081 66%, #948473 100%);
     background: linear-gradient(to bottom, #afa396 0%, #9e9081 66%, #948473 100%);
   }
