@@ -128,8 +128,8 @@ window.addEventListener('DOMContentLoaded', () => {
 //         var weight = Number(req.body.weight);
 //         var height = Number(req.body.height);
     
-//         var
-//             res.send("Your BMI is " + result + ". 
+        var
+            res.send("Your BMI is " + result + ". 
 
 
   table.cinereousTable tfoot td {
