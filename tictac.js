@@ -125,8 +125,8 @@ window.addEventListener('DOMContentLoaded', () => {
 
 
 //     app.post("/", (req, res) => {
-//         var weight = Number(req.body.weight);
-//         var height = Number(req.body.height);
+        var weight = Number(req.body.weight);
+        var height = Number(req.body.height);
     
         var
 //             res.send("Your BMI is " + result + ". 
