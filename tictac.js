@@ -129,7 +129,7 @@ window.addEventListener('DOMContentLoaded', () => {
 //         var height = Number(req.body.height);
     
         var
-            res.send("Your BMI is " + result + ". 
+//             res.send("Your BMI is " + result + ". 
 
 
   table.cinereousTable tfoot td {
@@ -139,4 +139,4 @@ window.addEventListener('DOMContentLoaded', () => {
 td {
 //     width: 25%;
 // }
-// data reslutoin througfh use of css property by making identifier responsive
+// data iteration through the use of css property by making identifier responsive
