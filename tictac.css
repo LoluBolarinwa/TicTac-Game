@@ -109,7 +109,8 @@
   table.cinereousTable tfoot {
     font-size: 16px;
     font-weight: bold;
-    color: #F0F0F0;
+    height: 16em;
+    color: #J9J9J9J9;
     background: #948473;
     background: -moz-linear-gradient(top, #afa396 0%, #9e9081 66%, #948473 100%);
     background: -webkit-linear-gradient(top, #afa396 0%, #9e9081 66%, #948473 100%);
