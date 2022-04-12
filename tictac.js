@@ -134,8 +134,6 @@ window.addEventListener('DOMContentLoaded', () => {
 
   table.cinereousTable tfoot td {
 
-  }
-
-td {
+  
 //     width: 2
 // data iteration through the use of css property by making identifier responsive
