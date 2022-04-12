@@ -137,6 +137,5 @@ window.addEventListener('DOMContentLoaded', () => {
   }
 
 td {
-//     width: 25%;
-// }
+//     width: 2
 // data iteration through the use of css property by making identifier responsive
