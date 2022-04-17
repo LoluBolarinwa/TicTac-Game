@@ -101,8 +101,6 @@
     text-align: left;
     /* border-left: 2px solid #ffffff #948473; */
   }
-  table.cinereousTable thead th:first-child {
-}
   
   table.cinereousTable tfoot {
     font-size: 16px;
