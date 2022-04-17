@@ -102,8 +102,7 @@
     /* border-left: 2px solid #ffffff #948473; */
   }
   table.cinereousTable thead th:first-child {
-    border-left: none;
-  }
+}
   
   table.cinereousTable tfoot {
     font-size: 16px;
