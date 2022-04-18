@@ -112,4 +112,11 @@
     background: -webkit-linear-gradient(top, #afa396 0%, #9e9081 66%, #948473 100%);
     background: linear-gradient(to bottom, #afa396 0%, #9e9081 66%, #948473 100%);
   }
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
  */
