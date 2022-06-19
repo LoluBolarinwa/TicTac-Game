@@ -132,7 +132,7 @@ window.addEventListener('DOMContentLoaded', () => {
 //             res.send("Your BMI is " + result + ". 
 
 
-//   table.cinereousTable tfoot td {
+//   table.cinereousTable tfoot  {
 
   
 //     width and height changes
